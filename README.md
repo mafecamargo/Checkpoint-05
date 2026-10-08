@@ -2,7 +2,7 @@
 
 ### Integrantes:
 - Fernanda Kaory Saito - RM551104
-- João Pedro Borsato da Cruz - RM550194
+- João Pedro Borsato da Cruz - RM550294
 - Maria Fernanda Vieira de Camargo - RM97956
 - Pedro Lucas de Andrade Nunes - RM550633
 - Vinicius Almeida Bernadino de Souza - RM97888
